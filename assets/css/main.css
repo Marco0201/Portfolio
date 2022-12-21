@@ -2469,6 +2469,5 @@ a.click:hover {
 	padding-bottom: 2px;
 	padding-left: 2px;
 	transition: background-color .1s ease-in-out;
-	/* text-shadow: black; */
-		
+	/* text-shadow: black; */	
 }
