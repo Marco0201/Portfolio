@@ -2443,3 +2443,32 @@ input, select, textarea {
 					}
 
 	}
+
+.click {
+	/* border: solid black 2px; */
+	border-radius: 25px;
+	color: white;
+	background: #41aeda;
+	text-decoration: none;
+	/* font-weight: 600; */
+	border: 0;
+	outline: 0;
+	cursor: pointer;
+	border-radius: 8px;
+	text-shadow: none;
+	/* padding: 2px 2px; */
+	font-size: 15px;
+	padding-right: 3px;
+	padding-bottom: 2px;
+	padding-left: 2px;
+}
+a.click:hover {
+	background: #01bf71;
+	color: #fafafa !important;
+	padding-right: 3px;
+	padding-bottom: 2px;
+	padding-left: 2px;
+	transition: background-color .1s ease-in-out;
+	/* text-shadow: black; */
+		
+}
